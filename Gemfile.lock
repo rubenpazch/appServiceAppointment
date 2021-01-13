@@ -150,8 +150,8 @@ DEPENDENCIES
   bootsnap (>= 1.5.1)
   byebug
   listen (~> 3.3)
-  pg (~> 1.1)
-  puma (~> 5.0)
+  pg (~> 1.2.3)
+  puma (~> 5.1)
   rails (~> 6.1.1)
   spring
   tzinfo-data
