@@ -1,6 +1,6 @@
 class TermsController < ApplicationController
-  def index 
+  def index
     @terms = Term.all
-    render json: @terms 
+    render json: @terms     
   end
 end
