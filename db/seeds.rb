@@ -8,3 +8,4 @@
 
 Term.create(word: 'apple', definition:'a red fruits')
 Term.create(word: 'pears', definition:'a red fruits')
+Term.create(word: 'pineaple', definition:'a red fruits')

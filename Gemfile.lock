@@ -147,7 +147,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bootsnap (>= 1.4.4)
+  bootsnap (>= 1.5.1)
   byebug
   listen (~> 3.3)
   pg (~> 1.1)
@@ -160,4 +160,4 @@ RUBY VERSION
    ruby 2.7.2p137
 
 BUNDLED WITH
-   2.2.2
+   2.2.5
